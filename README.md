@@ -1,2 +1,0 @@
-# layoffs
-Improvise, Adapt, Overcome
