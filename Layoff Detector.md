@@ -1,9 +1,9 @@
 # Layoff Detector
-Trying to make a list of AD queries that can be used to pull a list of people who have been laid off. 
+Ways to gather intelligence pertaining to layoffs.  
 
 1. Run an AD Query using PowerShell to determine when an account has been deactivated. Requires the [Active Directory Module for Windows PowerShell](https://learn.microsoft.com/en-us/powershell/module/activedirectory/).
 2. Run an AD query using Active Directory Users and Computers. This requires the [Remote Server Administration Tools](https://learn.microsoft.com/en-us/windows-server/remote/remote-server-administration-tools).
-3. Worker Adjustment & Retraining Notification Act (WARN) - US states must provide a listing of layoffs based on certian criteria.
+3. Worker Adjustment & Retraining Notification Act (WARN) - US states must provide a listing of layoffs based on certain criteria.
 
 ## 1. PS Query
 ```
